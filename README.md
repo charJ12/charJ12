@@ -46,7 +46,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,postman,figma,vscode,unity, " />
 </p>
-https://i=js,html,css,wasm
+
 ---
 
 ## 📊 GitHub Stats
@@ -75,7 +75,7 @@ https://i=js,html,css,wasm
 
 ## ✨ Daily Inspiration
 
-<div align="center">
+<div align="center ">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
