@@ -1,7 +1,6 @@
-# 👋 Hi, I'm John Paulo
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=QA+Tester+%7C+Frontend+Dev+%7C+Aspiring+Game+Dev;Building+Clean+and+Interactive+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=2500&lines=👋+Hi+,+I'm+John+Paulo+Pantas;Quality+Assurance+Tester+%7C+Front-End+Developer+%7C+Aspiring+Game+Developer;Building+Clean+and+Interactive+Experiences" />
 </p>
 
 </div>
