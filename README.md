@@ -9,7 +9,7 @@
 </div>
 
 
-
+-------------
 
 
 💻 Technology Stack
@@ -31,11 +31,11 @@
 
 
 
-
+----------
 📊 GitHub Analytics
 
 
-<div align="justified" unclickable="true">
+<div align="justified">
 
   
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=charJ12&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -50,7 +50,7 @@
 
 
 
-
+--------
 ✍️ Daily Inspiration
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -59,7 +59,7 @@
 
 
 
-
+--------------
 <div align="justified">
 💝 Support My Work
 
