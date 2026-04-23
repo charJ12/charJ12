@@ -13,7 +13,7 @@ Building clean user experiences, testing for quality, and creating interactive s
 ## 🚀 About Me
 
 - 🎓 4th Year College Student  
-- 💼 Content Associate & Student Assistant  
+- 💼 Content Associate, Student Assistant, Quality Assurance Tester | Front-End Web Developer
 - 🎯 Focused on **Web Dev, QA, and Game Development**  
 - 📚 Currently learning more about **full-stack systems & game engines**  
 - 🌱 Goal: Become a **professional developer after graduation**
@@ -54,11 +54,12 @@ Building clean user experiences, testing for quality, and creating interactive s
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="justified">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=charJ12&layout=compact&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=charJ12&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charJ12&layout=compact&theme=tokyonight&hide_border=true)
 
 ![](https://streak-stats.demolab.com?user=charJ12&theme=tokyonight&hide_border=true)
 
