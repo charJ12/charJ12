@@ -10,16 +10,6 @@
 
 
 
-🌐 Connect With Me
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=111827)](https://facebook.com/pantas.johnpaulo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827)](https://instagram.com/pantas.johnpaulo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://linkedin.com/in/johnpaulopantas)
-
-</div>
-
 
 
 💻 Technology Stack
