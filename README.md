@@ -1,6 +1,6 @@
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=2500&lines=👋+Hi+,+I'm+John+Paulo+Pantas;Quality+Assurance+Tester+%7C+Front-End+Developer+%7C+Aspiring+Game+Developer;Building+Clean+and+Interactive+Experiences" />
+<p align="center" style="bold">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=60&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=2500&height=200&lines=👋+Hi+,+I'm+John+Paulo+Pantas;Quality+Assurance+Tester+%7C+Front-End+Developer+%7C+Aspiring+Game+Developer;Building+Clean+and+Interactive+Experiences" />
 </p>
 
 </div>
