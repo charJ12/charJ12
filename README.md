@@ -1,10 +1,8 @@
-<div align="center">
-
 # 👋 Hi, I'm John Paulo
 
-### Quality Assurance Tester | Front-End Developer | Aspiring Game Dev
-
-Building clean user experiences, testing for quality, and creating interactive systems 🎮
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=QA+Tester+%7C+Frontend+Dev+%7C+Aspiring+Game+Dev;Building+Clean+and+Interactive+Experiences" />
+</p>
 
 </div>
 
@@ -47,9 +45,9 @@ Building clean user experiences, testing for quality, and creating interactive s
 
 ### ⚙️ DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,postman,figma,vscode,unity, " />
 </p>
-
+https://i=js,html,css,wasm
 ---
 
 ## 📊 GitHub Stats
@@ -91,9 +89,7 @@ Building clean user experiences, testing for quality, and creating interactive s
 If you like my work, you can support me 💙
 
 <p align="center">
-<a href="https://paypal.me/JohnPauloPantas">
-  <img src="https://img.shields.io/badge/Support-PayPal-00457C?style=flat&logo=paypal&logoColor=white"/>
-</a>
+  <a href="https://paypal.me/JohnPauloPantas">
+    <img src="https://img.shields.io/badge/Support%20Me-PayPal-0070BA?style=flat&logo=paypal&logoColor=white"/>
+  </a>
 </p>
-
----
