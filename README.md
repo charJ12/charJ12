@@ -4,7 +4,7 @@
   
   Quality Assurance Tester | Front-End Web Developer | Aspiring Game Developer
   
-  Passionate about crafting quality software, building  user experiences, and creating engaging games.
+  Passionate about developing quality software, building  user experiences, and creating engaging games.
   
 </div>
 
