@@ -11,7 +11,7 @@
 
 - 🎓 4th Year College Student  
 - 💼 Content Associate, Student Assistant, Quality Assurance Tester | Front-End Web Developer
-- 🎯 Focused on **Web Dev, QA, and Game Development**  
+- 🎯 Focused on **Front-End Web Dev, QA, and Game Development**  
 - 📚 Currently learning more about **full-stack systems & game engines**  
 - 🌱 Goal: Become a **professional developer after graduation**
 
@@ -21,14 +21,14 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cs,js,python,java,php,dart" />
+<img src="https://skillicons.dev/icons?i=cs,js,python,java,php" />
 </p>
 
 ---
 
 ### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vue" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ### ⚙️ DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,postman,figma,vscode,unity, " />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,postman,figma,vscode,unity, " />
 </p>
 
 ---
