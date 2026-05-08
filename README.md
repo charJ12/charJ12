@@ -83,12 +83,3 @@
 
 ---
 
-## 💝 Support Me
-
-If you like my work, you can support me 💙
-
-<p align="center">
-  <a href="https://paypal.me/JohnPauloPantas">
-    <img src="https://img.shields.io/badge/Support%20Me-PayPal-0070BA?style=flat&logo=paypal&logoColor=white"/>
-  </a>
-</p>
