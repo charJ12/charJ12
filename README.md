@@ -13,7 +13,7 @@
 - 💼 Content Associate, Student Assistant, Quality Assurance Tester | Front-End Web Developer
 - 🎯 Focused on **Front-End Web Dev, QA, and Game Development**  
 - 📚 Currently learning more about **full-stack systems & game engines**  
-- 🌱 Goal: Become a **professional developer after graduation**
+
 
 ---
 
