@@ -28,7 +28,7 @@
 
 ### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,vue" />
+<img src="https://skillicons.dev/icons?i=html,css,vue" />
 </p>
 
 ---
